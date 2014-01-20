@@ -1,0 +1,10 @@
+{
+  "name": "codrops-buttons",
+  "description": "Wraps the excellent Codrops loading buttons in a meteor package",
+  "homepage": "https://github.com/Sewdn/meteor-codrops-buttons",
+  "author": "Pieter Soudan",
+  "version": "0.1.0",
+  "git": "https://github.com/Sewdn/meteor-codrops-buttons.git",
+  "packages": {
+  }
+}
